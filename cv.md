@@ -2,7 +2,9 @@
 
 ## _Junior Frontend Developer_
 
-### Contact Information
+&ensp;
+
+### Contact Information:
 
 #### **Phone number:** +7(995)880-07-58
 
@@ -12,9 +14,11 @@
 
 #### **Discord:** grinushka
 
-### About me
+#### **GitHub:** grinushka
 
----
+&ensp;
+
+### About me
 
 During the university years I started thinking about changing my career, what led me to Web Development and Frontend, which fits me well. I find this field totally fascinating because of the community and endless career opportunities.
 What is more about my personality is that I am a passionate and aspiring learner and I love seeing the outcomes of my persistent work. My strengths also include analytical mind, perfect time-managment and ability to learn quickly.
@@ -55,25 +59,21 @@ newPolymer.forEach(function (S) {
 
 ### Working experience
 
-Projects:
+### _Projects:_
 
-[A simple Todo list](https://github.com/grinushka/todo-list.git)
-&ensp;
-[Etch a Sketch!](https://github.com/grinushka/etch-a-sketch.git)
-&ensp;
-[Dashboard](https://github.com/grinushka/dashboard-project.git)
-&ensp;
-[The Sign-up Form](https://github.com/grinushka/project-sign-up-form.git)
-&ensp;
-[Rock-Paper-Scissors](https://github.com/grinushka/Rock-Paper-Scissors.git)
+- [A simple Todo list](https://github.com/grinushka/todo-list.git)
+- [Etch a Sketch!](https://github.com/grinushka/etch-a-sketch.git)
+- [Dashboard](https://github.com/grinushka/dashboard-project.git)
+- [The Sign-up Form](https://github.com/grinushka/project-sign-up-form.git)
+- [Rock-Paper-Scissors](https://github.com/grinushka/Rock-Paper-Scissors.git)
 
 ### Education
 
-- "Krasnoyarsk State Pedagogical University"; Teacher of English and German languages, 2017-2022
+- "Krasnoyarsk State Pedagogical University", Teacher of English and German languages, 2017 - 2022
 - [The Complete Graphic Design Theory for Beginners Course](https://www.udemy.com/course/graphic-design-theory-for-beginners-course/)
 - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - [Modern JavaScript (Complete guide, from Novice to Ninja)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)
-- - a bunch of smaller courses and tutorials on YouTube
+- Plus a bunch of smaller courses and tutorials on YouTube
 
 ### Languages
 
