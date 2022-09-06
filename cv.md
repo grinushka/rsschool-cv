@@ -2,8 +2,6 @@
 
 ## _Junior Frontend Developer_
 
-&ensp;
-
 ### Contact Information:
 
 #### **Phone number:** +7(995)880-07-58
@@ -15,8 +13,6 @@
 #### **Discord:** grinushka
 
 #### **GitHub:** grinushka
-
-&ensp;
 
 ### About me
 
